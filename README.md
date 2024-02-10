@@ -1,4 +1,3 @@
-# farnaz-fatemi
 <h1 align="center">Hi 👋, I'm farnaz fatemi</h1>
 <h3 align="center">A junior frontend developer from iran</h3>
 
